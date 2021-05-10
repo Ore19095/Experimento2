@@ -20,6 +20,7 @@ main.obj: D:/TivaWare/driverlib/sysctl.h
 main.obj: D:/TivaWare/driverlib/interrupt.h
 main.obj: D:/TivaWare/driverlib/gpio.h
 main.obj: D:/TivaWare/driverlib/timer.h
+main.obj: D:/TivaWare/driverlib/uart.h
 
 ../main.c:
 
@@ -60,4 +61,6 @@ D:/TivaWare/driverlib/interrupt.h:
 D:/TivaWare/driverlib/gpio.h:
 
 D:/TivaWare/driverlib/timer.h:
+
+D:/TivaWare/driverlib/uart.h:
 
